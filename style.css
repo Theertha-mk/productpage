@@ -1,0 +1,28 @@
+.navbar-bg{
+    background-color: grey;
+}
+.navbar-brand{ 
+    color:white;
+    font-size:xx-large;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div1{
+   margin-top: 10px;
+}
+.nav-link{
+    color: black;
+}
+.label-input{
+    width:400px;
+    height:40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 10x solid #777;
+    border-radius: 14px;
+
+}
